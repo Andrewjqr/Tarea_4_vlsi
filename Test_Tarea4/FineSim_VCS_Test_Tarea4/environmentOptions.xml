@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!--Created by Custom Compiler (TM), build , on Sun Jun 16 05:34:35 2024-->
+<file-format version="1.0" name="stateCategory">
+ <object version="1" name="environmentOptions" type="saEnvironmentOptions">
+  <attribute value="" name="analogSimulatorOptions" type="giString"/>
+  <attribute value="" name="commandLineOptions" type="giString"/>
+  <attribute value="" name="compilationOptions" type="giString"/>
+  <attribute value="fsdb" name="digitalOutputDataFormat" type="giString"/>
+  <attribute value="" name="elaborationOptions" type="giString"/>
+  <attribute value="0" name="enableParallelSim" type="giBoolean"/>
+  <attribute value="0" name="ignoreParasitics" type="giBoolean"/>
+  <attribute value="" name="includePath" type="giString"/>
+  <attribute value="1" name="mergedFile" type="giBoolean"/>
+  <attribute value="HSPICE" name="netlistLanguage" type="giString"/>
+  <attribute value="1" name="numProcesses" type="giInt"/>
+  <attribute value="fsdb" name="outputDataFormat" type="giString"/>
+  <attribute value="hspice hspiceD functional behavioral symbol" name="stopViewList" type="giString"/>
+  <attribute value="hspice hspiceD schematic verilog functional behavioral vhdl_config vhdl spice veriloga verilogams" name="switchViewList" type="giString"/>
+  <attribute value="1" name="use64Bit" type="giBoolean"/>
+  <attribute value="" name="vhdlanOptions" type="giString"/>
+ </object>
+</file-format>
